@@ -1,14 +1,14 @@
                    |                  |         |                         |
 AliceMC10:          Tandy TRS-80 MC-10
-Altair8800:         MITS Altair 8800
+Altair8800:         Altair 8800
 Amstrad:            Amstrad CPC 664/6128
 Amstrad-PCW:        Amstrad PCW
-ao486:              IBM PC Compatible (486SX)
+ao486:              AO486
 Apogee:             Apogee BK-01
 Apple-I:            Apple I
 Apple-II:           Apple IIe
-Aquarius:           Mattel Aquarius
-Arcadia:            Emerson Arcadia 2001
+Aquarius:           Aquarius
+Arcadia:            Arcadia 2001
                    |                  |         |                         |
 Archie:             Acorn Archimedes
 Atari800:           Atari 800XL/65XE/130XE
@@ -26,7 +26,7 @@ ChannelF:           Fairchild Channel F
 CoCo2:              Tandy Color 2 & Dragon 32
 CoCo3:              Tandy TRS-80 Color Comp. 3
 ColecoAdam:         Coleco Adam
-CreatiVision:       VTech CreatiVision
+CreatiVision:       CreatiVision
 EDSAC:              EDSAC
 eg2000:             EACA EG2000 Colour Genie
 F68kMiSTer:         Sharp X68000
@@ -36,7 +36,7 @@ Homelab:            Homelab Series
 Interact:           Interact Home Computer Sys.
 Jupiter:            Jupiter Ace
 KC87:               Robotron KC 87
-Laser310:           VTech Laser 350/500/700
+Laser310:           Laser 350/500/700
 Lynx48:             Camputers Lynx 48/96K
 MacPlus:            Apple Macintosh Plus
 Memotech-MTX:       Memotech MTX
@@ -46,27 +46,27 @@ mister_coco:        Tandy TRS-80 Color Comp. 3
 MSX:                MSX (1chipMSX)
 MSX1:               MSX1/MSX2
 MultiComp:          MultiComp (Z80/6502/6809)
-Ondra_SPO186:       Tesla Ondra SPO 186
-ORAO:               Velebit Informatika Orao
+Ondra_SPO186:       Ondra SPO 186
+ORAO:               Informatika Orao
 Oric:               Oric-1/Atmos
 PC88:               NEC PC-8801
-PCXT:               IBM Personal Computer XT
+PCXT:               IBM PCXT
 PDP1:               DEC PDP-1
 PET2001:            Commodore PET 2001
                    |                  |         |                         |
-PMD85:              Tesla PMD 85-2A
+PMD85:              PMD 85-2A
 QL:                 Sinclair QL
-RX78:               Bandai RX-78 Gundam
+RX78:               RX-78 Gundam
 SAMCoupe:           SAM Coupe
 SharpMZ:            Sharp MZ Series
 Specialist:         Specialist/MX
 SordM5:             Sord M5
-SS:                 Sun SparcStation (NeXT)
+SS:                 SparcStation (NeXT)
 Svi328:             Spectravideo SV-328
 System1:            Acorn System 1
                    |                  |         |                         |
 TatungEinstein:     Tatung Einstein TC-01
-Ti994a:             Texas Instruments TI-99/4A
+Ti994a:             TI-99/4A
 TomyTutor:          Tomy Tutor
 TRS-80:             Tandy TRS-80 Model I
 TSConf:             ZX Evolution (TS-Config)
@@ -80,8 +80,8 @@ ZX-Spectrum:        Sinclair ZX Spectrum
 zx48:               Sinclair ZX48
 ZX81:               Timex Sinclair TS-1500
 ZXNext:             ZX Spectrum Next
-AdventureVision:    Entex Adventure Vision
-Astrocade:          Bally Astrocade
+AdventureVision:    Adventure Vision
+Astrocade:          Astrocade
 Atari 2600:         Atari 2600
 Atari5200:          Atari 5200
 Atari7800:          Atari 7800
@@ -92,7 +92,7 @@ BBCBridgeCompanion: BBC Bridge Companion
 C2650:              Arcadia 2001 & VC 4000
 Casio_PV-1000:      Casio PV-1000
 ColecoVision:       ColecoVision & SEGA SG-1000
-Gamate:             Bit Corp./UMC Gamate
+Gamate:             Gamate
 Gameboy:            Nintendo Game Boy
 GameboyColor:       Nintendo Game Boy Color
 Gameboy2P:          Nintendo Game Boy/Color 2P
@@ -101,38 +101,38 @@ Gameboy2Pultrawide: Nintendo Game Boy/Color 2PW
 Game Gear:          SEGA Game Gear
 GBA:                Nintendo Game Boy Advance
 GBA2P:              Nintendo Game Boy Advance 2P
-Genesis:            SEGA Genesis
-Genesis3D:          SEGA Genesis 3D
+Genesis:            SEGA Mega Drive
+Genesis3D:          SEGA Mega Drive 3D
 GnW:                Nintendo Game & Watch
-Intellivision:      Mattel Intellivision
-Intv:               Mattel Intellivision
+Intellivision:      Intellivision
+Intv:               Intellivision
 Jaguar:             Atari Jaguar
 Konix:              Konix Multisystem
                    |                  |         |                         |
-MegaCD:             SEGA CD
-Mega Duck:          Welback Holdings Mega Duck
-MyVision:           Nichibutsu My Vision
+MegaCD:             SEGA Mega-CD
+Mega Duck:          Mega Duck
+MyVision:           My Vision
 NeoGeo:             SNK Neo Geo MVS/AES
 NES:                Nintendo NES
 NES3D:              Nintendo NES 3D
 Odyssey2:           Magnavox Odyssey2
 PICO:               SEGA Pico
-PokemonMini:        Nintendo Pokemon mini
+PokemonMini:        Pokemon Mini
 PSX:                Sony PlayStation
                    |                  |         |                         |
-S32X:               SEGA Genesis 32X
+S32X:               SEGA 32X
 Saturn:             SEGA Saturn
 SGB:                Nintendo Super Game Boy
 SMS:                SEGA Master System
 SMS3D:              SEGA Master System 3D
 SNES:               Nintendo Super NES
-SuperVision:        Watara/Quickshot SuperVision
-TurboGrafx16:       NEC Turbo Duo
+SuperVision:        SuperVision
+TurboGrafx16:       NEC PC-Engine/CD
 VC4000:             Interton Video Computer 4000
-Vectrex:            GCE Vectrex
+Vectrex:            Vectrex
                    |                  |         |                         |
-WonderSwan:         Bandai WonderSwan
-WonderSwan Color:   Bandai WonderSwan Color
+WonderSwan:         WonderSwan
+WonderSwan Color:   WonderSwan Color
 EpochGalaxyII:      Epoch Galaxy II
 TomyScramble:       Tomytronic Scramble
 Arduboy:            Arduboy
@@ -151,236 +151,4 @@ InputTest:          Controller Input Tester
 jtsdram48:          Jotego SDRAM Test 48 MHz
 jtsdram96:          Jotego SDRAM Test 96 MHz
 memtest:            SDRAM Test
-Gameboy_LLAPI:      Nintendo GB/GBC (LLAPI)
                    |                  |         |                         |
-GBA_LLAPI:          Nintendo GBA (LLAPI)
-Genesis_LLAPI:      SEGA Genesis (LLAPI)
-MegaCD_LLAPI:       SEGA CD (LLAPI)
-NeoGeo_LLAPI:       SNK Neo Geo (LLAPI)
-NES_LLAPI:          Nintendo NES (LLAPI)
-Pacman_LLAPI:       Pac-Man (LLAPI)
-SMS_LLAPI:          SEGA Master System (LLAPI)
-SNES_LLAPI:         Nintendo SNES (LLAPI)
-TurboGrafx16_LLAPI: NEC TurboGrafx-16/CD (LLAPI)
-arcade_SMS:         SEGA System E
-                   |                  |         |                         |
-arcade_NeoGeo:      SNK NeoGeo MVS
-Alpha68k:           SNK Alpha 68000
-
-
-
-
-
-
-
-
-
-
-                   |                  |         |                         |
-Arkanoid:           Taito - Arkanoid
-armedf:             Nichibutsu - Formation Armed F
-Asteroids:          Atari - Asteroids
-AsteroidsDeluxe:    Atari - Asteroids Deluxe
-AtariTetris:        Atari - Tetris
-Athena:             SNK - Athena
-Bagman:             Valadon Aut. - Bagman
-bakraid:            Raizing - Battle Bakraid
-bankpanic:          SEGA Bank Panic
-batrider:           Raizing - Armed Police Batrider
-                   |                  |         |                         |
-BattleZone:         Atari Battlezone
-Berzerk:            Stern Elect. - Berzerk
-BlackWidow:         Atari - Black Widow
-blockade:           SEGA Blockade
-BombJack:           Tehkan - Bomb Jack
-bosconian:          Bosconian: Star Destroyer
-Breakout:           breakout:18_Common_EU
-BurgerTime:         Data East - Burger Time
-BurningRubber:      Data East - Bump 'n' Jump
-CanyonBomber:       Atari - Canyon Bomber
-                   |                  |         |                         |
-Centipede:          Atari - Centipede
-Chameleon:          Jaleco - Chameleon
-ComputerSpace:      Syzygy Engr. Computer Space
-CongoBongo:         SEGA Congo Bongo
-Cosmic:             Universal - Cosmic Alien
-CosmicAvenger:      Universal - Cosmic Avenger
-CosmicGuerilla:     Universal - Cosmic Guerilla
-CrazyBalloon:       Taito - Crazy Balloon
-CrazyClimber:       Nichibutsu - Crazy Climber
-CrazyKong:          Falcon - Crazy Kong
-                   |                  |         |                         |
-CrystalCastles:     Atari - Crystal Castles
-Defender:           Williams, Inc. Defender
-DigDug:             Namco - Dig Dug
-Dominos:            Atari - Dominos
-DonkeyKong:         Nintendo - Donkey Kong
-DonkeyKong3:        Nintendo - Donkey Kong 3
-DonkeyKongJunior:   Nintendo - Donkey Kong Jr.
-Dorodon:            UPL Co. - Dorodon
-DottoriKun:         SEGA - Dottori-kun
-Druaga:             Namco - The Tower of Druaga
-                   |                  |         |                         |
-Exerion:            Jaleco - Exerion
-expressraider:      Data East - Express Raider
-Finalizer:          Konami - Finalizer: Super Transformation
-FoodFight:          GCC - Charley Chuck's Food Fight
-freeze:             Data Amusements - Freeze
-Frenzy:             Stern Elect. - Frenzy
-Galaga:             Namco - Galaga
-Galaxian:           Namco - Galaxian
-Galivan:            Nichibutsu - Cosmo Police Galivan
-Gaplus:             Namco - Gaplus
-                   |                  |         |                         |
-Garegga:            Toaplan Version 2
-Gauntlet:           Atari - Gauntlet
-GnG:                Capcom - Ghosts 'n Goblins -old-
-Gyruss:             Konami - Gyruss
-IkariWarriors:      SNK - Ikari Warriors
-Inferno:            Inferno:18_Coomon_EU
-IremM62:            Irem M62
-IremM72:            Irem M72
-IremM92:            Irem M92
-IronHorse:          Konami - Iron Horse
-                   |                  |         |                         |
-Jackal:             Konami - Jackal
-Jailbreak:          jailbreak:18_Common_EU
-Joust2:             Williams Elect. - Joust 2: Survival of the Fittest
-jt1942:             Capcom - 1942
-jt1943:             Capcom - 1943: The Battle of Midway
-jtbiocom:           Capcom - Bionic Commando
-jtbtiger:           Capcom - Black Tiger
-jtbubl:             Taito - Bubble Bobble
-jtcastle:           Konami - Haunted Castle
-jtcommnd:           Capcom - Commando
-                   |                  |         |                         |
-jtcomsc:            Konami - Boot Camp
-jtcontra:           Konami - Contra
-jtcop:              Data East - RoboCop
-jtcps1:             Capcom CP System
-jtcps15:            Capcom CP System Dash
-jtcps2:             Capcom CP System II
-jtdd:               Technos - Double Dragon
-jtdd2:              Technos - Double Dragon II: The Revenge
-jtexed:             Capcom - Savage Bees
-jtf1drm:            Capcom - F-1 Dream
-                   |                  |         |                         |
-jtflane:            Capcom - Fast Lane
-jtgng:              Capcom - Ghosts 'n Goblins
-jtgunsmk:           Capcom - Gun.Smoke
-jthige:             Capcom - Pirate Ship Higemaru
-jtkarnov:           Data East Karnov
-jtkchamp:           Data East - Karate Champ
-jtkicker:           Konami - Kicker
-jtkiwi:             Taito - The NewZealand Story
-jtkunio:            Technos - Renegade
-jtlabrun:           Konami - Labyrinth Runner
-                   |                  |         |                         |
-jtmidres:           Data East - Midnight Resistance
-jtmikie:            Konami - Mikie
-jtmx5k:             Konami - Flak Attack
-jtninja:            Data East - Bad Dudes Vs DragonNinja
-jtoutrun:           SEGA Out Run
-jtpang:             Mitchell Pang
-jtpinpon:           Konami - Konami's Ping Pong
-jttrack:            Konami - Track & Field
-jtrastan:           Taito - Rastan
-jtroc:              Konami - Roc'n Rope
-                   |                  |         |                         |
-jtroadf:            Konami Road Fighter
-jtrumble:           Capcom - The Speed Rumbler
-jts16:              SEGA System 16
-jts16a2:            SEGA System 16A2
-jts16b1:            SEGA System 16B1
-jts16b2:            SEGA System 16B2
-jts16b3:            SEGA System 16B3
-jts16b:             SEGA System 16B
-jtsarms:            Capcom - Hyper Dyne Side Arms
-jtsbask1:           Konami - Super Basketball -version I-
-                   |                  |         |                         |
-jtsbaskt:           Konami - Super Basketball -version H-
-jtshanon:           SEGA - Super Hang-On
-jtslyspy:           Data East - Sly Spy
-jtsf:               Capcom - Street Fighter
-jtsectnz:           Capcom - Section Z
-jttora:             Capcom - Tiger Road
-jttrojan:           Capcom - Trojan
-jtvigil:            Irem - Vigilante
-jtvulgus:           Capcom - Vulgus
-jtyiear:            Konami - Yie Ar Kung-Fu
-                   |                  |         |                         |
-LadyBug:            Universal - Lady Bug
-LunarLander:        Atari - Lunar Lander
-MarioBros:          Nintendo - Mario Bros.
-MCR1:               Bally Midway MCR-1
-MCR2:               Bally Midway MCR-2
-MCR3:               Bally Midway MCR-3
-MCR3Mono:           Bally Midway MCR-3 Monoboard
-MCR3Scroll:         Bally Midway MCR-3 Scroll
-MissileCommand:     Atari - Missile Command
-MoonPatrol:         Irem - Moon Patrol
-                   |                  |         |                         |
-MrDo:               Universal - Mr. Do!
-MrJong:             Kiwako - BlockBuster
-MysticMarathon:     Williams Elect. - Mystic Marathon
-nemesis:            Konami - Nemesis
-NextSpace:          SNK Alpha 68000
-NinjaKun:           UPL - Ninja Kun
-Pacman:             Namco - Pac-Man
-Pengo:              Coreland - Pengo
-PenguinKunWars:     UPL - Penguin-Kun Wars
-Performan:          Toaplan - Performan
-                   |                  |         |                         |
-Phoenix:            Centuri - Phoenix
-pipibibs:           Toaplan - Pipi & Bibis
-Pleiads:            Centuri - Pleiades
-PolyPlay:           VEB Polytechnik - Poly-Play
-Pong:               Atari - Pong
-Pooyan:             Stern Elect. - Pooyan
-Popeye:             Nintendo - Popeye
-prehisle:           SNK Prehistoric Isle in 1930
-QBert:              Gottlieb - Q'Bert
-RallyX:             Namco - Rally-X
-                   |                  |         |                         |
-RiverPatrol:        Orca - River Patrol
-Robotron:           Vid Kidz - Robotron: 1984
-RshnAtk:            Konami - Rush'n Attack
-ScooterShooter:     Konami - Scooter Shooter
-Scramble:           Konami - Scramble
-SEGASYS1:           SEGA System 1
-SilverLand:         Falcon - Silver Land
-SlapFight:          Toaplan - Slap Fight
-SnapJack:           Universal - Snap Jack
-SNK68:              SNK 68000
-                   |                  |         |                         |
-SNK_TripleZ80:      SNK Triple Z80
-snowbro2:           Toaplan - Snow Bros 2: With New Elves
-SolomonsKey:        Tecmo - Solomon's Key
-Sonson:             Capcom - SonSon
-SpaceInvaders:      Taito - Space Invaders
-SpaceRace:          Atari - Space Race
-Sprint1:            Atari - Sprint 1
-Sprint2:            Atari - Sprint 2
-Subs:               Atari - Subs
-SuperBreakout:      Atari - Super Breakout
-                   |                  |         |                         |
-TankBattalion:      Namco - Tank Battalion
-Tecmo:              Tecmo 1st Gen
-terracresta:        Nichibutsu - Terra Cresta
-TIAMC1:             Ekstrema-Ukraina TIA-MC-1
-TimePilot:          Konami - Time Pilot
-TimePilot84:        Konami - Time Pilot '84: Further Into Unknown World
-TMNT:               Konami TMNT
-TNKIII:             SNK - T.N.K. III
-toaplan1:           Toaplan Version 1
-TraverseUSA:        Irem - MotoRace USA
-                   |                  |         |                         |
-TropicalAngel:      Irem - Tropical Angel
-truxton2:           Toaplan - Truxton II
-TurkeyShoot:        Williams Elect. - Turkey Shoot
-Ultratank:          Kee Games - Ultra Tank
-VBall:              Technos - U.S. Championship V'Ball
-Xevious:            Namco - Xevious
-XSleenaCore:        Technos - Solar Warrior
-Zaxxon:             SEGA - Zaxxon
-ZigZag:             LAX - Zig Zag
