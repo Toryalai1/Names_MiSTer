@@ -1,6 +1,8 @@
                    |                  |         |                         |
 AliceMC10:          Tandy TRS-80 MC-10
 Altair8800:         Altair 8800
+Amiga               Commodore Amiga
+Amiga500            Comodore Amiga 500
 Amstrad:            Amstrad CPC 664/6128
 Amstrad-PCW:        Amstrad PCW
 ao486:              AO486
@@ -40,7 +42,7 @@ Laser310:           Laser 350/500/700
 Lynx48:             Camputers Lynx 48/96K
 MacPlus:            Apple Macintosh Plus
 Memotech-MTX:       Memotech MTX
-Minimig:            Commodore Amiga
+Minimig:            Minimig
 mister_coco:        Tandy TRS-80 Color Comp. 3
                    |                  |         |                         |
 MSX:                MSX (1chipMSX)
