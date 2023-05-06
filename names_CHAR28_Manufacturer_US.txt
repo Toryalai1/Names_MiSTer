@@ -1,8 +1,10 @@
                    |                  |         |                         |
 AliceMC10:          Tandy TRS-80 MC-10
 Altair8800:         Altair 8800
-Amiga               Commodore Amiga
-Amiga500            Comodore Amiga 500
+Amiga:              Commodore Amiga
+Amiga500:           Comodore Amiga 500
+Amiga500HD:         Comodore Amiga 500 HD
+Amiga600HD:         Comodore Amiga 600 HD
 Amstrad:            Amstrad CPC 664/6128
 Amstrad-PCW:        Amstrad PCW
 ao486:              AO486
@@ -25,8 +27,8 @@ C64:                Commodore 64
                    |                  |         |                         |
 Casio_PV-2000:      Casio PV-2000
 ChannelF:           Fairchild Channel F
-CoCo2:              Tandy Color 2 & Dragon 32
-CoCo3:              Tandy TRS-80 Color Comp. 3
+CoCo2:              TRS-80 CoCo 2
+CoCo3:              TRS-80 CoCo 3
 ColecoAdam:         Coleco Adam
 CreatiVision:       CreatiVision
 EDSAC:              EDSAC
@@ -42,8 +44,7 @@ Laser310:           Laser 350/500/700
 Lynx48:             Camputers Lynx 48/96K
 MacPlus:            Apple Macintosh Plus
 Memotech-MTX:       Memotech MTX
-Minimig:            Minimig
-mister_coco:        Tandy TRS-80 Color Comp. 3
+mister_coco:        TRS-80 CoCo 3
                    |                  |         |                         |
 MSX:                MSX (1chipMSX)
 MSX1:               MSX1/MSX2
@@ -114,7 +115,7 @@ Konix:              Konix Multisystem
 MegaCD:             SEGA Mega-CD
 Mega Duck:          Mega Duck
 MyVision:           My Vision
-NeoGeo:             SNK Neo Geo MVS/AES
+NeoGeo:             Neo Geo MVS/AES
 NES:                Nintendo NES
 NES3D:              Nintendo NES 3D
 Odyssey2:           Magnavox Odyssey2
