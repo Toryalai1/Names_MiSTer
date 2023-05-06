@@ -127,6 +127,7 @@ SMS:                SEGA Master System
 SMS3D:              SEGA Master System 3D
 SNES:               Nintendo Super NES
 SuperVision:        SuperVision
+Super_Vision_8000:  SuperVision 8000
 TurboGrafx16:       NEC PC-Engine/CD
 VC4000:             Interton Video Computer 4000
 Vectrex:            Vectrex
