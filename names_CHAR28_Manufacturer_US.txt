@@ -2,9 +2,9 @@
 AliceMC10:          Tandy TRS-80 MC-10
 Altair8800:         Altair 8800
 Amiga:              Commodore Amiga
-Amiga500:           Comodore Amiga 500
-Amiga500HD:         Comodore Amiga 500 HD
-Amiga600HD:         Comodore Amiga 600 HD
+Amiga 500:          Comodore Amiga 500
+Amiga 500HD:        Comodore Amiga 500 HD
+Amiga 600HD:        Comodore Amiga 600 HD
 Amstrad:            Amstrad CPC 664/6128
 Amstrad-PCW:        Amstrad PCW
 ao486:              AO486
